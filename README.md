@@ -46,3 +46,13 @@ you will be prompted for your github username and github password. in this case,
 
 there you go! your changes are live and i can see them from my laptop in my bed.
 
+
+3. Downloading things from the repository to your machine
+
+In order to store changes made on the repository on your local machine, you need to execute:
+
+git pull origin main
+
+This will update your local machine with the current state of the repository. For example, if Savir added his plotting script to the repository, in order for me to access it on my laptop's terminal I would have to execute this. Simple!
+
+Everything is updated on github when commits are made, but NOT on your machine. Obviously your changes will be live on your machine since you did the changes and then committed them, but to access other's commits on your machine  you must do the above command.
