@@ -1,6 +1,6 @@
 # hs_b2intro
 
-This is a github repository which will be used to store all of our code in an open source format. Very ha#ndy in situations where you want multiple people to be working on the same code! We could easily do this without github, but it provides more organization and is a very useful tool for you to learn if you are going into physics, mathematics, or software development. they all use github. there are plenty reasons why github is extremely handy but you dont have to worry about most of them for now.
+This is a github repository which will be used to store all of our code in an open source format. Very handy in situations where you want multiple people to be working on the same code! We could easily do this without github, but it provides more organization and is a very useful tool for you to learn if you are going into physics, mathematics, or software development. they all use github. there are plenty reasons why github is extremely handy but you dont have to worry about most of them for now.
 
 This readme will give you a general idea of how to stay organized with github.
 
